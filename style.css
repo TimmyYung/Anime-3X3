@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('http://fonts.cdnfonts.com/css/sanford');
+
+body{
+    background-color: #121212;
+    color: #eee;
+}
+
+.parent{
+    display: flex;
+    border: none;
+}
+
+img{
+    width:225px;
+    height:225px;
+    border:2px #eee;
+}
+
+td{
+    background-color: #616161;
+    /* border: 2px solid #eee;   */
+}
+
+
+h1{
+    font-family: 'Roboto';
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding-bottom: -200px;
+}
+
+input[type="button"] {
+    border: none;
+    outline: none;
+}
